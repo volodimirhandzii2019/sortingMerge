@@ -47,7 +47,7 @@ void MergeSort(int arr[], int arr_size) {
 
 
 bool Test_MergeSort1() {
-	bool testResult;
+	bool testResult; // test comment for commit
 	testResult = true;
 	int arr[] = { 3,72,6,33,65,98 };
 	int size = sizeof(arr) / sizeof(arr[0]);
